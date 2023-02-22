@@ -117,3 +117,27 @@ ACLManager AssetListingAdmin: [0xd2aD0B35b02D34573106c58aED96f61540469f72](https
 ACLManager RiskAdmin: [0x822AB04DA1a8979018AE8280D4Eacb8cDD295FCd](https://testnet.bscscan.com/address/0x822AB04DA1a8979018AE8280D4Eacb8cDD295FCd) true
 
 ACLManager RiskAdmin: [0xd2aD0B35b02D34573106c58aED96f61540469f72](https://testnet.bscscan.com/address/0xd2aD0B35b02D34573106c58aED96f61540469f72) true
+
+WBTC_MToken_IMPL deployed to: [0x097DB6651C49Aa36a58906602ee39338fd56acD1](https://testnet.bscscan.com/address/0x097DB6651C49Aa36a58906602ee39338fd56acD1)
+
+WBTC_StableDebtToken_IMPL deployed to: [0x8A5e4166f39619bFD03Df0b5832C1F2dAAC1a072](https://testnet.bscscan.com/address/0x8A5e4166f39619bFD03Df0b5832C1F2dAAC1a072)
+
+WBTC_VariableDebtToken_IMPL deployed to: [0xCBbAcC7A5827f467E29b7E0c90e46dA597aa0159](https://testnet.bscscan.com/address/0xCBbAcC7A5827f467E29b7E0c90e46dA597aa0159)
+
+WBTC_DefaultReserveInterestRateStrategy deployed to: [0x28cC820db6361C225AF8b5A8725ea45EB3ea96C2](https://testnet.bscscan.com/address/0x28cC820db6361C225AF8b5A8725ea45EB3ea96C2)
+
+USDC_MToken_IMPL deployed to: [0xb83F9F1462896A3010994A820C783f343bA608c9](https://testnet.bscscan.com/address/0xb83F9F1462896A3010994A820C783f343bA608c9)
+
+USDC_StableDebtToken_IMPL deployed to: [0x2a9f33Fd39D1aB50cAd800F6696E89dD8bFfbdF9](https://testnet.bscscan.com/address/0x2a9f33Fd39D1aB50cAd800F6696E89dD8bFfbdF9)
+
+USDC_VariableDebtToken_IMPL deployed to: [0x120dD69cF8Dff46e15448c37a2017CFd70a16F15](https://testnet.bscscan.com/address/0x120dD69cF8Dff46e15448c37a2017CFd70a16F15)
+
+USDC_DefaultReserveInterestRateStrategy deployed to: [0x0DDe6c37f67DAe28b7612E5370Fd91FAE11FfF6B](https://testnet.bscscan.com/address/0x0DDe6c37f67DAe28b7612E5370Fd91FAE11FfF6B)
+
+MNT_MToken_IMPL deployed to: [0xe0a7C1384c2B75bD3e1D9e871db5e4Fe5649a13A](https://testnet.bscscan.com/address/0xe0a7C1384c2B75bD3e1D9e871db5e4Fe5649a13A)
+
+MNT_StableDebtToken_IMPL deployed to: [0x8e7A9bfE2Ad3Ff4BD390982FF255DF3E952A8057](https://testnet.bscscan.com/address/0x8e7A9bfE2Ad3Ff4BD390982FF255DF3E952A8057)
+
+MNT_VariableDebtToken_IMPL deployed to: [0xF9b5d9bb38311E0EC21C1C004dfED593B0566A9A](https://testnet.bscscan.com/address/0xF9b5d9bb38311E0EC21C1C004dfED593B0566A9A)
+
+MNT_DefaultReserveInterestRateStrategy deployed to: [0x9871AaB8e04264fff585490cC33027fD7fd7bDE2](https://testnet.bscscan.com/address/0x9871AaB8e04264fff585490cC33027fD7fd7bDE2)
