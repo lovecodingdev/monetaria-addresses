@@ -141,3 +141,7 @@ MNT_StableDebtToken_IMPL deployed to: [0x8e7A9bfE2Ad3Ff4BD390982FF255DF3E952A805
 MNT_VariableDebtToken_IMPL deployed to: [0xF9b5d9bb38311E0EC21C1C004dfED593B0566A9A](https://testnet.bscscan.com/address/0xF9b5d9bb38311E0EC21C1C004dfED593B0566A9A)
 
 MNT_DefaultReserveInterestRateStrategy deployed to: [0x9871AaB8e04264fff585490cC33027fD7fd7bDE2](https://testnet.bscscan.com/address/0x9871AaB8e04264fff585490cC33027fD7fd7bDE2)
+
+### Faucet
+
+[0xf7b36dEaF7b2d2d8f1edd4a6918B66f3A56A3De7](https://testnet.bscscan.com/address/0xf7b36dEaF7b2d2d8f1edd4a6918B66f3A56A3De7)
