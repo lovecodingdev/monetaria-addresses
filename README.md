@@ -152,10 +152,13 @@ MNTToken deployed to: [0x64E2C58F063EFED4477C313a4d4e51184CfFE198](https://testn
 
 VotingEscrow deployed to: [0x823C2FCEc33005188b3FA5eFB7130851C91e9562](https://testnet.bscscan.com/address/0x823C2FCEc33005188b3FA5eFB7130851C91e9562)
 
-GaugeController deployed to: [0x13D37C126Ab634eFBa4D250d7D07b42d6D8aeCF4](https://testnet.bscscan.com/address/0x13D37C126Ab634eFBa4D250d7D07b42d6D8aeCF4)
+GaugeController deployed to: [0x39c76fD1808e1a3A1db4D3B82b360D65c48C50F3](https://testnet.bscscan.com/address/0x39c76fD1808e1a3A1db4D3B82b360D65c48C50F3)
 
 VEBoost deployed to: [0x72a1AedfB92db29d8A29f2C3EF08d0a6946F73B3](https://testnet.bscscan.com/address/0x72a1AedfB92db29d8A29f2C3EF08d0a6946F73B3)
 
 VEBoostProxy deployed to: [0x377Ad7013986Ae9af2e7329544F49916d175433D](https://testnet.bscscan.com/address/0x377Ad7013986Ae9af2e7329544F49916d175433D)
 
 Minter deployed to: [0xF1C88F235a1292075Da43f70f6c51eefdb5BAf60](https://testnet.bscscan.com/address/0xF1C88F235a1292075Da43f70f6c51eefdb5BAf60)
+
+#### Gauges
+MWBTC Gauge: [0x3200c69BaAC0DE4F9b474F941C9eeec36891520a](https://testnet.bscscan.com/address/0x3200c69BaAC0DE4F9b474F941C9eeec36891520a)
