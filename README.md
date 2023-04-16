@@ -161,4 +161,5 @@ VEBoostProxy deployed to: [0x377Ad7013986Ae9af2e7329544F49916d175433D](https://t
 Minter deployed to: [0xF1C88F235a1292075Da43f70f6c51eefdb5BAf60](https://testnet.bscscan.com/address/0xF1C88F235a1292075Da43f70f6c51eefdb5BAf60)
 
 #### Gauges
-MWBTC Gauge: [0x3200c69BaAC0DE4F9b474F941C9eeec36891520a](https://testnet.bscscan.com/address/0x3200c69BaAC0DE4F9b474F941C9eeec36891520a)
+
+MWBTC Gauge: [0x2D55905f98B40194191e2714728F493b8a7db8B9](https://testnet.bscscan.com/address/0x2D55905f98B40194191e2714728F493b8a7db8B9)
