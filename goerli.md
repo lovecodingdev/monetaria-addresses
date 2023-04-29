@@ -1,4 +1,4 @@
-## ETH Goerli
+# ETH Goerli
 
 PoolAddressesProvider deployed to: [0x254eCbA99Ebef34aEFAF367725f0a940d6e2fbeB](https://goerli.etherscan.io/address/0x254eCbA99Ebef34aEFAF367725f0a940d6e2fbeB)
 
@@ -110,3 +110,53 @@ ACLManager RiskAdmin:  [0x019E2a0bD139D13B6CAbEF9a808E642FcE90c0Ea](https://goer
 ACLManager RiskAdmin:  [0xafB067Fe63A9457370fFe3b330c0e01D59999834](https://goerli.etherscan.io/address/0xafB067Fe63A9457370fFe3b330c0e01D59999834) true
 
 ACLManager PoolAdmin:  [0xafB067Fe63A9457370fFe3b330c0e01D59999834](https://goerli.etherscan.io/address/0xafB067Fe63A9457370fFe3b330c0e01D59999834) true
+
+## Reserves
+
+WBTC
+
+WBTC_MToken_IMPL deployed to: [0x8e693e1Debbcf1eeb9174A58C16ef79288BBDFd9](https://goerli.etherscan.io/address/0x8e693e1Debbcf1eeb9174A58C16ef79288BBDFd9)
+
+WBTC_StableDebtToken_IMPL deployed to: [0xC41B26043cF726B4404294655dEd783b90A9901B](https://goerli.etherscan.io/address/0xC41B26043cF726B4404294655dEd783b90A9901B)
+
+WBTC_VariableDebtToken_IMPL deployed to: [0xa445e1eAdB63b9220822b84267DC196cA705596d](https://goerli.etherscan.io/address/0xa445e1eAdB63b9220822b84267DC196cA705596d)
+
+WBTC_DefaultReserveInterestRateStrategy deployed to: [0xc9BD671249BE01d88240adDfa9b6932420fD5D9f](https://goerli.etherscan.io/address/0xc9BD671249BE01d88240adDfa9b6932420fD5D9f)
+
+WBTC_MTOKEN: [0xF2Ba6021142c09bf2Fe835fC42F4f851c34a5117](https://goerli.etherscan.io/address/0xF2Ba6021142c09bf2Fe835fC42F4f851c34a5117)
+
+WBTC_StableDebtToken: [0xD143c02a92DcC2496A0189543Bb285Bf0E95Ec52](https://goerli.etherscan.io/address/0xD143c02a92DcC2496A0189543Bb285Bf0E95Ec52)
+
+WBTC_VariableDebtToken: [0x55DacACFB5Ae95D20A6797217bE86299F7e4e85b](https://goerli.etherscan.io/address/0x55DacACFB5Ae95D20A6797217bE86299F7e4e85b)
+
+MNT
+
+MNT_MToken_IMPL deployed to: [0x0a73E5dB42861C2De1705d455A038C3bf541834A](https://goerli.etherscan.io/address/0x0a73E5dB42861C2De1705d455A038C3bf541834A)
+
+MNT_StableDebtToken_IMPL deployed to: [0x707F6FA3b40dB3106D55c2FE4e303f6c75d53046](https://goerli.etherscan.io/address/0x707F6FA3b40dB3106D55c2FE4e303f6c75d53046)
+
+MNT_VariableDebtToken_IMPL deployed to: [0xBe75C64f2F1c0BEd65666a3985EFeAdd0D0889F8](https://goerli.etherscan.io/address/0xBe75C64f2F1c0BEd65666a3985EFeAdd0D0889F8)
+
+MNT_DefaultReserveInterestRateStrategy deployed to: [0x33B89BE7A0Be80a3c518E376285C19E319d8AA2B](https://goerli.etherscan.io/address/0x33B89BE7A0Be80a3c518E376285C19E319d8AA2B)
+
+MNT_MTOKEN: [0x49D3e40fC2476f94Bf24b285eC98F928996de8a6](https://goerli.etherscan.io/address/0x49D3e40fC2476f94Bf24b285eC98F928996de8a6)
+
+MNT_StableDebtToken: [0xb38be046B1b9073aEd3Aa319f87d92a8C037f613](https://goerli.etherscan.io/address/0xb38be046B1b9073aEd3Aa319f87d92a8C037f613)
+
+MNT_VariableDebtToken: [0x82306cA65f13bB1ae66Ac43AB8F4BA3ff342b90c](https://goerli.etherscan.io/address/0x82306cA65f13bB1ae66Ac43AB8F4BA3ff342b90c)
+
+USDC
+
+USDC_MToken_IMPL deployed to: [0x87aA4Def57fC129b3853DF89aC900B2e552664AD](https://goerli.etherscan.io/address/0x87aA4Def57fC129b3853DF89aC900B2e552664AD)
+
+USDC_StableDebtToken_IMPL deployed to: [0x7f50e2dCbE22e1b9058883A90a44Dfbca9aCe3a6](https://goerli.etherscan.io/address/0x7f50e2dCbE22e1b9058883A90a44Dfbca9aCe3a6)
+
+USDC_VariableDebtToken_IMPL deployed to: [0x0996cDbe551A81eC3603317CB044034734F555e0](https://goerli.etherscan.io/address/0x0996cDbe551A81eC3603317CB044034734F555e0)
+
+USDC_DefaultReserveInterestRateStrategy deployed to: [0xF63ef95761aED80C98A88BDa51F2056a5653B7fb](https://goerli.etherscan.io/address/0xF63ef95761aED80C98A88BDa51F2056a5653B7fb)
+
+USDC_MTOKEN: [0x55D603096FaeafFe8c634d1b35196a96a68e27A4](https://goerli.etherscan.io/address/0x55D603096FaeafFe8c634d1b35196a96a68e27A4)
+
+USDC_StableDebtToken: [0xA5Ea3a4389B517e0Bce8617c80C8001f5A5c0c45](https://goerli.etherscan.io/address/0xA5Ea3a4389B517e0Bce8617c80C8001f5A5c0c45)
+
+USDC_VariableDebtToken: [0xE644377979e3aC69af2eAC2180578f6a1631621F](https://goerli.etherscan.io/address/0xE644377979e3aC69af2eAC2180578f6a1631621F)
