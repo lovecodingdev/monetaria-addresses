@@ -160,3 +160,18 @@ USDC_MTOKEN: [0x55D603096FaeafFe8c634d1b35196a96a68e27A4](https://goerli.ethersc
 USDC_StableDebtToken: [0xA5Ea3a4389B517e0Bce8617c80C8001f5A5c0c45](https://goerli.etherscan.io/address/0xA5Ea3a4389B517e0Bce8617c80C8001f5A5c0c45)
 
 USDC_VariableDebtToken: [0xE644377979e3aC69af2eAC2180578f6a1631621F](https://goerli.etherscan.io/address/0xE644377979e3aC69af2eAC2180578f6a1631621F)
+
+
+## DAO
+
+MNTToken deployed to: [0x778190A52Ec57684e2a4AAa25aE1f3b68Ce2e2a7](https://goerli.etherscan.io/address/0x778190A52Ec57684e2a4AAa25aE1f3b68Ce2e2a7)
+
+VotingEscrow deployed to: [0x24C3d01A33F0979a287c4F81A307AcCA001DE72e](https://goerli.etherscan.io/address/0x24C3d01A33F0979a287c4F81A307AcCA001DE72e)
+
+GaugeController deployed to: [0x7335dC5eB92Ca16E12e0A8F61F075c46c065190E](https://goerli.etherscan.io/address/0x7335dC5eB92Ca16E12e0A8F61F075c46c065190E)
+
+VEBoost deployed to: [0xE9fE7e3734360C256b30392FcdD03A4f6722Be3D](https://goerli.etherscan.io/address/0xE9fE7e3734360C256b30392FcdD03A4f6722Be3D)
+
+VEBoostProxy deployed to: [0xCcF4C97Bd5A772EB28e60951121635DEe877d8EB](https://goerli.etherscan.io/address/0xCcF4C97Bd5A772EB28e60951121635DEe877d8EB)
+
+Minter deployed to: [0x758E3CdB0d49C4328FE7cb187c4215D4e6DA622d](https://goerli.etherscan.io/address/0x758E3CdB0d49C4328FE7cb187c4215D4e6DA622d)
