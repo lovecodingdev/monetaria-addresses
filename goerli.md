@@ -175,3 +175,9 @@ VEBoost deployed to: [0xE9fE7e3734360C256b30392FcdD03A4f6722Be3D](https://goerli
 VEBoostProxy deployed to: [0xCcF4C97Bd5A772EB28e60951121635DEe877d8EB](https://goerli.etherscan.io/address/0xCcF4C97Bd5A772EB28e60951121635DEe877d8EB)
 
 Minter deployed to: [0x758E3CdB0d49C4328FE7cb187c4215D4e6DA622d](https://goerli.etherscan.io/address/0x758E3CdB0d49C4328FE7cb187c4215D4e6DA622d)
+
+### Gauges
+
+MWBTC Gauge: [0xCC677fda38C17B75c8ba16db90d250F3B11Bc6ce](https://goerli.etherscan.io/address/0xCC677fda38C17B75c8ba16db90d250F3B11Bc6ce)
+
+MUSDC Gauge: [0xF83D3b2E93f92f7778Fc17C4ED5AbC9a445B9fED](https://goerli.etherscan.io/address/0xF83D3b2E93f92f7778Fc17C4ED5AbC9a445B9fED)
